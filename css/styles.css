@@ -11203,8 +11203,8 @@ body {
 }
 .logo-pagina {
     display: block;
-    width: 260px;
-    height: 300px;
+    width: 360px;
+    height: 400px;
     object-fit: contain;
     margin: 0 auto 25px auto;
 }
