@@ -11201,3 +11201,10 @@ body {
 .footer {
   padding: 5rem 0;
 }
+.logo-pagina {
+    display: block;
+    width: 360px;
+    height: 400px;
+    object-fit: contain;
+    margin: 0 auto 25px auto;
+}
